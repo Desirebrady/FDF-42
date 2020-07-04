@@ -1,7 +1,7 @@
 # FDF-42
 A simple 3D height-map renderer. You can rotate models, color is defined by relative height in the map. More features planned!
 
-![Screenshot](screen.png)
+![Screenshot](screen2.png)
 
 Features
 Simple file format definition (array of space-separated integers)
